@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "test coverage for [alfred-workflow-nodejs (v2.0.1)](https://github.com/giangvo/alfred-workflow-nodejs#readme) [![npm package](https://img.shields.io/npm/v/npmtest-alfred-workflow-nodejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alfred-workflow-nodejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs.svg)](https://travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs)",
+    "description": "#### basic test coverage for  [alfred-workflow-nodejs (v2.0.1)](https://github.com/giangvo/alfred-workflow-nodejs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-alfred-workflow-nodejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alfred-workflow-nodejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs.svg)](https://travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs)",
     "devDependencies": {
         "alfred-workflow-nodejs": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",

@@ -1,4 +1,7 @@
-# test coverage for  [alfred-workflow-nodejs (v2.0.1)](https://github.com/giangvo/alfred-workflow-nodejs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-alfred-workflow-nodejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alfred-workflow-nodejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs.svg)](https://travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs)
+# npmtest-alfred-workflow-nodejs
+
+#### basic test coverage for  [alfred-workflow-nodejs (v2.0.1)](https://github.com/giangvo/alfred-workflow-nodejs#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-alfred-workflow-nodejs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-alfred-workflow-nodejs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs.svg)](https://travis-ci.org/npmtest/node-npmtest-alfred-workflow-nodejs)
+
 #### Alfred workflow nodejs module
 
 [![NPM](https://nodei.co/npm/alfred-workflow-nodejs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/alfred-workflow-nodejs)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-alfred-workflow-nodejs/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-alfred-workflow-nodejs/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-alfred-workflow-nodejs/build/coverage.html/index.html)
 
@@ -80,7 +83,8 @@
     "scripts": {
         "test": "mocha --ui tdd"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
